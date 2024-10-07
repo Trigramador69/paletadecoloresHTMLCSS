@@ -18,3 +18,31 @@
     background-color: hsl(316, 89%, 55%);
     color: hsl(93, 89%, 55%);
 }
+
+/* *{
+    color: orange;
+} */
+
+/* div{
+    color: green;
+} */
+
+/* .caja1{
+    color: red;
+} */
+
+#foo{
+    color: orange;
+}
+
+a[title]{
+    color: green;
+}
+
+button:hover{
+    background-color: violet;
+}
+
+input:disabled{
+    border: 2px solid orange;
+}
