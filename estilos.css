@@ -1,4 +1,4 @@
-.caja1{
+/* .caja1{
     width: 150px;
     height: 150px;
     background-color: rgb(222, 23, 182);
@@ -17,19 +17,19 @@
     height: 150px;
     background-color: hsl(316, 89%, 55%);
     color: hsl(93, 89%, 55%);
-}
+} */
 
 /* *{
     color: orange;
-} */
+}
 
-/* div{
+div{
     color: green;
 } */
 
-/* .caja1{
+.caja1{
     color: red;
-} */
+}
 
 #foo{
     color: orange;
