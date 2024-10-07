@@ -1,0 +1,20 @@
+.caja1{
+    width: 150px;
+    height: 150px;
+    background-color: rgb(222, 23, 182);
+    color: rgb(103, 223, 47);
+}
+
+.caja2{
+    width: 150px;
+    height: 150px;
+    background-color: #dd1c9d;
+    color: #66dd1c;
+}
+
+.caja3{
+    width: 150px;
+    height: 150px;
+    background-color: hsl(316, 89%, 55%);
+    color: hsl(93, 89%, 55%);
+}
